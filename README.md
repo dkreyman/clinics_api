@@ -14,3 +14,5 @@ Options for GET requests:
 
 You can also use any combination of these three together to filter down.
 The root just returns all of the data.
+
+Quick start: npm install, npm test, npm start
